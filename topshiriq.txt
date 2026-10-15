@@ -1,0 +1,7 @@
+Desktop/Rabochiy stol ga yangi `dars11` papkasini oching
+shu papkani VSCode orqali oching
+
+1. sonlar.txt faylidan barcha sonlarning yig'indisini hisoblang
+2. matn.txt faylidan barcha katta harflar sonini toping
+3. madhiya.txt faylidan ma'lumotlarni ekranga chiqaring
+git for windows
