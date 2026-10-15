@@ -12,5 +12,4 @@ int main(){
         katta += isupper(belgi);
     }
     printf("\nKatta harflar soni: %d ta\n", katta);
-    
 }
